@@ -7,7 +7,9 @@
 4. Spence, Charles, and Heston Blumenthal. Gastrophysics: the New Science of Eating. England: Penguin Books Ltd., 2018.
 
 ## Literature Review list (Skateboard)
-
+1. Kloek, Marjolein E., Arjen E. Buijs, Jan J. Boersema, and Matthijs G.c. Schouten. “Beyond Ethnic Stereotypes – Identities and Outdoor Recreation Among Immigrants and Nonimmigrants in the Netherlands.” Leisure Sciences 39, no. 1 (2016): 59–78. https://doi.org/10.1080/01490400.2016.1151843.
+2. Thomas, William E., Rupert Brown, Matthew J. Easterbrook, Vivian L. Vignoles, Claudia Manzi, Chiara D’Angelo, and Jeremy J. Holt. “Social Identification in Sports Teams.” Personality and Social Psychology Bulletin 43, no. 4 (2017): 508–23. https://doi.org/10.1177/0146167216689051.
+3. Trepte, Sabine, and Laura S. Loy. “Social Identity Theory and Self-Categorization Theory.” The International Encyclopedia of Media Effects, August 2017, 1–13. https://doi.org/10.1002/9781118783764.wbieme0088.
 
 ## Skate Culture in NYC : Thesis Idea 2
 #### Research Question:
@@ -19,7 +21,7 @@
 - Significance: In order to show the highly unique and effective ability skateboarding culture has in shaping identity and showcasing individualism compared to other sports
   
 2.
-- Topic: I am visualizing individuality in skateboarding at the NYC pier 62 skatepark.
+- Topic: I am visualizing individuality inside a skateboarding community at the NYC pier 62 skatepark.
 
 - Research Question: Because I want to understand how the existence of parks and recreational areas in nyc create opportunities for community development and high levels of cultural diversity
 
@@ -59,7 +61,4 @@
 #### Data Ideas:
 - NYC Census Data
 - NYC Parks Data
-- Data Collected from videos and photographs
-
-#### References:
-- 
+- Data Collected from videos and photographs at skatepark
