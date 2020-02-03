@@ -1,5 +1,5 @@
 # Thesis
-
+![](./Concept%20Development/Mind%20Maps/food1.png)
 ## Literature Review list (Food)
 1. Gazzaniga, Michael S. The Consciousness Instinct: Unraveling the Mystery of How the Brain Makes the Mind. New York: Farrar, Straus and Giroux, 2019.  
 2. Herz, Rachel. Why You Eat What You Eat: the Science behind Our Relationship with Food. New York.: Norton & Company, Incorporated, W.W., 2018.
@@ -24,7 +24,7 @@
 
 - Significance: In order to see if there is an objective way or formula for individuals to choose dishes in NYC, and to make people think more about and appreciate the exprience of food.
 
-
+![](./Concept%20Development/Mind%20Maps/Skateboard1.png)
 ## Literature Review list (Skateboard)
 1. Kloek, Marjolein E., Arjen E. Buijs, Jan J. Boersema, and Matthijs G.c. Schouten. “Beyond Ethnic Stereotypes – Identities and Outdoor Recreation Among Immigrants and Nonimmigrants in the Netherlands.” Leisure Sciences 39, no. 1 (2016): 59–78. https://doi.org/10.1080/01490400.2016.1151843.
 2. Thomas, William E., Rupert Brown, Matthew J. Easterbrook, Vivian L. Vignoles, Claudia Manzi, Chiara D’Angelo, and Jeremy J. Holt. “Social Identification in Sports Teams.” Personality and Social Psychology Bulletin 43, no. 4 (2017): 508–23. https://doi.org/10.1177/0146167216689051.
