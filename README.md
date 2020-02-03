@@ -10,6 +10,21 @@
 
 
 ## Skate Culture in NYC : Thesis Idea 2
+#### Research Question:
+1.
+- Topic: I am visualizing individuality in skateboarding at the NYC pier 62 skatepark.
+
+- Research Question: Because I want to show the exceptional contrast in individuality and strength of community within a group of skateboarders in nyc
+
+- Significance: In order to show the highly unique and effective ability skateboarding culture has in shaping identity and showcasing individualism compared to other sports
+  
+2.
+- Topic: I am visualizing individuality in skateboarding at the NYC pier 62 skatepark.
+
+- Research Question: Because I want to understand how the existence of parks and recreational areas in nyc create opportunities for community development and high levels of cultural diversity
+
+- Significance: In order to show  the highly unique and effective ability skatepark culture offers in shaping especially strong community qualities and dynamics.
+
 ### Introduction
 1. Background
 2. Thesis
@@ -40,3 +55,11 @@
       - Body position
       - Trick Choice
 ### Conclusion
+
+#### Data Ideas:
+- NYC Census Data
+- NYC Parks Data
+- Data Collected from videos and photographs
+
+#### References:
+- 
