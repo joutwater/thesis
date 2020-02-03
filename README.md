@@ -15,28 +15,28 @@
 2. Thesis
 ### Urban community development
 1. Urban culture and demographic diversity
-- Neighborhood vs. Other community construct
-- Parks as primary alternative to neighborhood in community development
+  - Neighborhood vs. Other community construct
+  - Parks as primary alternative to neighborhood in community development
 2. Public Parks
-- Public vs. Private
-- Green spaces
-- Maintenance
+  - Public vs. Private
+  - Green spaces
+  - Maintenance
 3. Recreational activities
-- Number of various activities
-- Variety of activities
+  - Number of various activities
+  - Variety of activities
 4. A meeting place
-- Congregation location
-- How do you communities create these places and develop them
+  - Congregation location
+  - How do you communities create these places and develop them
 ### Defining Identity within a community
 1. Local vs. Other
-- Localism, Tribalism
+  - Localism, Tribalism
 2. Sense of Acceptance and freedom
-- Method of Escape
+  - Method of Escape
 3. Individualism
-- Style
-  - Clothing
-  - Physical Approach
-    - Speed, Flow, Commitment
-    - Body position
-    - Trick Choice
+  - Style
+    - Clothing
+    - Physical Approach
+      - Speed, Flow, Commitment
+      - Body position
+      - Trick Choice
 ### Conclusion
