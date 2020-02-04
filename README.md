@@ -64,8 +64,27 @@
   - How does food make you feel
   - Does the service affect your mood
 ### Culture of Taste - Trained for food, or not for food
-1.
+1. Location
+  - Factors of Climate
+  - Factors of Geography
+  - Factors of Proximity
+2. Economy
+  - Import/Export Food trends
+  - People buying or selling with whom
+  - Access to Markets
+3. Beliefs
+  - Religion's effect on food
+  - Personal Choices/ Diets and food
+### Conclusion
 
+#### Data Ideas:
+  - Food DB
+  - UnderArmour, My fitness health API
+  - Restaurant Data?
+  - Psychology Data?
+  
+#### Data viz inspiration:
+http://rhythm-of-food.net/
 
 ## Skate Culture in NYC : Thesis Idea 2
 ![](./Concept%20Development/Mind%20Maps/Skateboard1.png)
