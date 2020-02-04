@@ -142,7 +142,7 @@ http://rhythm-of-food.net/
 #### Data Ideas:
 - NYC Census Data - https://data.cityofnewyork.us/browse?q=demographic
 - NYC Parks Data - https://data.cityofnewyork.us/browse?q=recreation&sortBy=relevance
-- Data Collected from videos and photographs at skatepark
+- Data derived from videos and photographs at skatepark
 
 #### Data viz inspiration:
 https://c4sr.columbia.edu/projects/we-can
