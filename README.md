@@ -145,5 +145,5 @@ http://rhythm-of-food.net/
 - Data derived from videos and photographs at skatepark
 
 #### Data viz inspiration:
-https://c4sr.columbia.edu/projects/we-can
-http://www.georgelmurphy.com/berrics/
+- https://c4sr.columbia.edu/projects/we-can
+- http://www.georgelmurphy.com/berrics/
