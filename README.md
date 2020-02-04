@@ -78,9 +78,9 @@
 ### Conclusion
 
 #### Data Ideas:
-  - Food DB
-  - UnderArmour, My fitness health API
-  - Restaurant Data?
+  - Food DB - http://foodb.ca/
+  - UnderArmour, My fitness health API - https://www.myfitnesspal.com/api
+  - Restaurant Data? - https://developer.foursquare.com/
   - Psychology Data?
   
 #### Data viz inspiration:
@@ -140,6 +140,10 @@ http://rhythm-of-food.net/
 ### Conclusion
 
 #### Data Ideas:
-- NYC Census Data
-- NYC Parks Data
+- NYC Census Data - https://data.cityofnewyork.us/browse?q=demographic
+- NYC Parks Data - https://data.cityofnewyork.us/browse?q=recreation&sortBy=relevance
 - Data Collected from videos and photographs at skatepark
+
+#### Data viz inspiration:
+https://c4sr.columbia.edu/projects/we-can
+http://www.georgelmurphy.com/berrics/
