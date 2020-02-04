@@ -30,6 +30,43 @@
 
 - Significance: In order to see if there is an objective way or formula for individuals to choose dishes in NYC, and to make people think more about and appreciate the exprience of food.
 
+### Introduction
+1. Background
+2. Thesis
+### Physiology of Taste - What is happening in your mouth
+1. Chemical Level
+  - Chemical composition of individual flavors
+  - Resultant favorable chemical combinations from mixing such flavors
+  - Optimizing combinations to create greatest overall effect across individuals
+2. Flavor Level
+  - Individual Flavor descriptors (savory, delicate, sour, etc.)
+  - Resulting combinations of favorable flavor descriptors
+  - Optimizing combinations to create greatest overall effect across individuals
+3. Food/Ingredients Level
+  - Individual ingredients (raspberry, asparagus, ice cream)
+  - Resulting favorable combination of ingredients
+  - Optimizing combinations to create greatest overall effect across individuals
+4. Outputs
+  - Food Science
+  - Flavor Pairing
+  - Menu Composition
+### Psychology of Taste - Environmental factors
+1. What you see
+  - What does the food look like
+  - What does the table look like
+  - What does the environment look like
+2. What you hear
+  - What music is playing
+  - How noise level in the environment
+  - How is the food described to you
+3. What you feel
+  - What mood are you in before eating
+  - How does food make you feel
+  - Does the service affect your mood
+### Culture of Taste - Trained for food, or not for food
+1.
+
+
 ## Skate Culture in NYC : Thesis Idea 2
 ![](./Concept%20Development/Mind%20Maps/Skateboard1.png)
 ## Literature Review list
