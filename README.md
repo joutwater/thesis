@@ -27,8 +27,7 @@
 
 ### What does your audience learn and take away from their user experience?
 
-- The audience learns about the intricate science, choices, and processes around optimizing berry flavor and taste. This tells a larger story about modern agriculture and brings up issues like sustainability and GMOs
-
+- The audience learns about the intricate science, choices, and processes around optimizing berry flavor and taste. This tells a larger story about modern agriculture and brings up issues like sustainability and GMOs.
 
 
 ## Subjectivity of Taste in Food : Thesis Idea 1
