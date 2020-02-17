@@ -1,5 +1,13 @@
 # Thesis
 
+![](./Concept%20Development/Mind%20Maps/BQ_input_output.png)
+
+## Berry Quality Analysis
+### Who is your audience?
+### How is your audience reading or encountering your project? 
+### What does your project ask of your audience?
+### What does your audience learn and take away from their user experience?
+
 ## Subjectivity of Taste in Food : Thesis Idea 1
 ![](./Concept%20Development/Mind%20Maps/food1.png)
 ## Literature Review list
