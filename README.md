@@ -4,9 +4,32 @@
 
 ## Berry Quality Analysis
 ### Who is your audience?
+
+- People interested in learning about detailed processes around our day to day lives that we might not realize
+
+- People who love food (berries) and are interested in how it is "developed"
+
+- People interested in analyzing agriculture variables and outputs
+
 ### How is your audience reading or encountering your project? 
+
+- Website: Journalistic entry point regarding background and significance (scrolly)
+
+- Moving to Web App tool which includes data exploration and interacting with layers and details
+
 ### What does your project ask of your audience?
+
+- Desire to learn, reading
+
+- Exploration, interaction
+
+- Possible data input
+
 ### What does your audience learn and take away from their user experience?
+
+- The audience learns about the intricate science, choices, and processes around optimizing berry flavor and taste. This tells a larger story about modern agriculture and brings up issues like sustainability and GMOs
+
+
 
 ## Subjectivity of Taste in Food : Thesis Idea 1
 ![](./Concept%20Development/Mind%20Maps/food1.png)
