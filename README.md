@@ -29,6 +29,12 @@
 
 - The audience learns about the intricate science, choices, and processes around optimizing berry flavor and taste. This tells a larger story about modern agriculture and brings up issues like sustainability and GMOs.
 
+### Updated Research Question
+
+- Topic: Visualizing the association of desirable flavor chemicals in berries with particular growing conditions, in test plots (small-scale) and/or in field (large-scale))
+- Research Question: Because I want to understand how not only genetic testing but its combination with favorable environmental conditions can lead to berries of highest quality and berries with targeted flavors and flavor combinations.
+- Significance: This relationship can help provide crucial data for the industry relating to flavor quality development. For those not in the industry, I believe it is an interesting insight to what goes into a berry and the amazing technologies and modern practices used today in precision agriculture.
+
 
 ## Subjectivity of Taste in Food : Thesis Idea 1
 ![](./Concept%20Development/Mind%20Maps/food1.png)
