@@ -6,6 +6,7 @@
 ## Sensing Berries
 ![](./Concept%20Development/Mind%20Maps/SB_WF_Story.png)
 
+## System Diagram
 ![](./Concept%20Development/Mind%20Maps/BQ_input_output.png)
 
 ## Berry Quality Analysis
