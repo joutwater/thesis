@@ -1,5 +1,8 @@
 # Thesis
 
+## Featured Module Update
+![](./Concept%20Development/Mind%20Maps/Thesis_re_mock.png)
+
 ## Season's Finest
 ![](./Concept%20Development/Mind%20Maps/SF_WF_Tool.png)
 
