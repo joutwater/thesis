@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/ >
+		<title>Smoothed D3.js Radar Chart</title>
+
+		<!-- Google fonts -->
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300" rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+
+		<!-- D3.js -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
+		
+		<style>
+			body {
+				font-family: 'Open Sans', sans-serif;
+				font-size: 11px;
+				font-weight: 300;
+				fill: #242424;
+				text-align: center;
+				text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+				cursor: default;
+			}
+			
+			.legend {
+				font-family: 'Raleway', sans-serif;
+				fill: #333333;
+			}
+			
+			.tooltip {
+				fill: #333333;
+			}
+			
+			path{
+				transition: all ease-in-out 2s;
+			}
+		</style>
+	
+	</head>
+	<body>
+
+		<div class="radarChart"></div>
+
+		<script src="radarChart.js"></script>	
+		<script>
+      
+      /* Radar chart design created by Nadieh Bremer - VisualCinnamon.com */
+      
+			////////////////////////////////////////////////////////////// 
+			//////////////////////// Set-Up ////////////////////////////// 
+			////////////////////////////////////////////////////////////// 
+
+			var margin = {top: 100, right: 100, bottom: 100, left: 100},
+				width = Math.min(700, window.innerWidth - 10) - margin.left - margin.right,
+				height = Math.min(width, window.innerHeight - margin.top - margin.bottom - 20);
+					
+			////////////////////////////////////////////////////////////// 
+			////////////////////////// Data ////////////////////////////// 
+			////////////////////////////////////////////////////////////// 
+
+			var data = [
+			    [//
+						{axis:"overall_like", value:0.6741935484},
+						{axis:"overall_appear_like", value:0.6806451613},
+						{axis:"taste_expect", value:0.6387096774},
+						{axis:"color_like", value:0.6806451613},
+						{axis:"color_jar", value:0.9139784946},
+						{axis:"size_jar", value:0.8924731183},
+						{axis:"taste_like", value:0.6774193548},
+						{axis:"sweetness_intn", value:0.6543778802},
+						{axis:"tartness_intn", value:0.5161290323},
+						{axis:"blueberry_intn", value:0.6543778802},
+						{axis:"sweetness_jar", value:0.8387096774},
+						{axis:"tartness_jar", value:0.8064516129},
+						{axis:"floral", value:0.1935483871},
+						{axis:"berry", value:0.6451612903},
+						{axis:"citrus", value:0.1935483871},
+						{axis:"earthy", value:0.1935483871},
+						{axis:"fermented", value:0.09677419355},
+						{axis:"fruity", value:0.5161290323},
+						{axis:"grassy", value:0.1935483871},
+						{axis:"piney", value:0.03225806452},
+						{axis:"texture_like", value:0.6548387097},
+						{axis:"firmness_intn", value:0.66359447},
+						{axis:"crispness_intn", value:0.6267281106},
+						{axis:"juciness_intn", value:0.5898617512},
+						{axis:"seediness_intn", value:0.3594470046},
+						{axis:"mealiness_intn", value:0.6267281106},
+						{axis:"firmness_jar", value:0.8709677419},
+						{axis:"crispness_jar", value:0.8494623656},
+						{axis:"juciness_jar", value:0.8172043011},
+						{axis:"aftertaste_yn", value:0.3548387097},
+						{axis:"aftertaste_intn", value: 0.2516129032}
+			        ],
+			    [//
+		    	      {axis:"overall_like", value:0.6811881188},
+				      {axis:"overall_appear_like", value:0.6772277228},
+				      {axis:"taste_expect", value:0.702970297},
+				      {axis:"color_like", value:0.6851485149},
+				      {axis:"color_jar", value:0.9240924092},
+				      {axis:"size_jar", value:0.7623762376},
+				      {axis:"taste_like", value:0.6831683168},
+				      {axis:"sweetness_intn", value:0.5968882603},
+				      {axis:"tartness_intn", value:0.5700141443},
+				      {axis:"blueberry_intn", value:0.6336633663},
+				      {axis:"sweetness_jar", value:0.8514851485},
+				      {axis:"tartness_jar", value:0.8481848185},
+				      {axis:"floral", value:0.297029703},
+				      {axis:"berry", value:0.6831683168},
+				      {axis:"citrus", value:0.1782178218},
+				      {axis:"earthy", value:0.1584158416},
+				      {axis:"fermented", value:0.0396039604},
+				      {axis:"fruity", value:0.4257425743},
+				      {axis:"grassy", value:0.1089108911},
+				      {axis:"piney", value:0.1188118812},
+				      {axis:"texture_like", value:0.7059405941},
+				      {axis:"firmness_intn", value:0.6718528996},
+				      {axis:"crispness_intn", value:0.6619519095},
+				      {axis:"juciness_intn", value:0.6591230552},
+				      {axis:"seediness_intn", value:0.3281471004},
+				      {axis:"mealiness_intn", value:0.6619519095},
+				      {axis:"firmness_jar", value:0.9570957096},
+				      {axis:"crispness_jar", value:0.9339933993},
+				      {axis:"juciness_jar", value: 0.897689769},
+				      {axis:"aftertaste_yn", value:0.3564356436},
+				      {axis:"aftertaste_intn", value:0.2376237624}
+			        ],
+			       [//      
+			          {axis:"overall_like", value:0.6079207921},
+				      {axis:"overall_appear_like", value:0.6326732673},
+				      {axis:"taste_expect", value: 0.598019802},
+				      {axis:"color_like", value:0.6792079208},
+				      {axis:"color_jar", value:0.9306930693},
+				      {axis:"size_jar", value:0.7755775578},
+				      {axis:"taste_like", value: 0.601980198},
+				      {axis:"sweetness_intn", value:0.5304101839},
+				      {axis:"tartness_intn", value:0.6067892504},
+				      {axis:"blueberry_intn", value:0.5912305516},
+				      {axis:"sweetness_jar", value: 0.795379538},
+				      {axis:"tartness_jar", value: 0.798679868},
+				      {axis:"floral", value:0.1188118812},
+				      {axis:"berry", value:0.6633663366},
+				      {axis:"citrus", value: 0.198019802},
+				      {axis:"earthy", value:0.1188118812},
+				      {axis:"fermented", value:0.0495049505},
+				      {axis:"fruity", value:0.4455445545},
+				      {axis:"grassy", value:0.1089108911},
+				      {axis:"piney", value:0.0297029703},
+				      {axis:"texture_like", value:0.6455445545},
+				      {axis:"firmness_intn", value:0.6280056577},
+				      {axis:"crispness_intn", value:0.6011315417},
+				      {axis:"juciness_intn", value:0.5954738331},
+				      {axis:"seediness_intn", value:0.3988684583},
+				      {axis:"mealiness_intn", value:0.6011315417},
+				      {axis:"firmness_jar", value:0.9174917492},
+				      {axis:"crispness_jar", value: 0.904290429},
+				      {axis:"juciness_jar", value:0.8811881188},
+				      {axis:"aftertaste_yn", value:0.2772277228},
+				      {axis:"aftertaste_intn", value:0.1821782178}
+			        	],
+			        [//
+					  {axis:"overall_like", value: 0.595049505},
+				      {axis:"overall_appear_like", value:0.6772277228},
+				      {axis:"taste_expect", value:0.6376237624},
+				      {axis:"color_like", value:0.6742574257},
+				      {axis:"color_jar", value:0.9108910891},
+				      {axis:"size_jar", value:0.8481848185},
+				      {axis:"taste_like", value:0.5920792079},
+				      {axis:"sweetness_intn", value:0.4879773692},
+				      {axis:"tartness_intn", value:0.6591230552},
+				      {axis:"blueberry_intn", value:0.5728429986},
+				      {axis:"sweetness_jar", value:0.7293729373},
+				      {axis:"tartness_jar", value:0.8085808581},
+				      {axis:"floral", value:0.1386138614},
+				      {axis:"berry", value:0.6138613861},
+				      {axis:"citrus", value:0.2277227723},
+				      {axis:"earthy", value:0.2673267327},
+				      {axis:"fermented", value:0.0495049505},
+				      {axis:"fruity", value:0.4059405941},
+				      {axis:"grassy", value:0.1683168317},
+				      {axis:"piney", value:0.07920792079},
+				      {axis:"texture_like", value:0.6366336634},
+				      {axis:"firmness_intn", value:0.6166902405},
+				      {axis:"crispness_intn", value:0.6025459689},
+				      {axis:"juciness_intn", value:0.5827439887},
+				      {axis:"seediness_intn", value:0.4016973126},
+				      {axis:"mealiness_intn", value:0.6025459689},
+				      {axis:"firmness_jar", value:0.8877887789},
+				      {axis:"crispness_jar", value:0.8877887789},
+				      {axis:"juciness_jar", value:0.8547854785},
+				      {axis:"aftertaste_yn", value:0.2871287129},
+				      {axis:"aftertaste_intn", value:0.1702970297}
+			        	],
+			        [//
+			          {axis:"overall_like", value:0.6346534653},
+				      {axis:"overall_appear_like", value:0.6475247525},
+				      {axis:"taste_expect", value:0.6336633663},
+				      {axis:"color_like", value:0.6376237624},
+				      {axis:"color_jar", value:0.8943894389},
+				      {axis:"size_jar", value:0.8184818482},
+				      {axis:"taste_like", value:0.6445544554},
+				      {axis:"sweetness_intn", value:0.5685997171},
+				      {axis:"tartness_intn", value:0.4908062235},
+				      {axis:"blueberry_intn", value:0.5841584158},
+				      {axis:"sweetness_jar", value:0.8151815182},
+				      {axis:"tartness_jar", value: 0.798679868},
+				      {axis:"floral", value:0.2079207921},
+				      {axis:"berry", value:0.6732673267},
+				      {axis:"citrus", value:0.1287128713},
+				      {axis:"earthy", value:0.1782178218},
+				      {axis:"fermented", value:0.0396039604},
+				      {axis:"fruity", value:0.3564356436},
+				      {axis:"grassy", value:0.1881188119},
+				      {axis:"piney", value:0.07920792079},
+				      {axis:"texture_like", value:0.6435643564},
+				      {axis:"firmness_intn", value:0.5643564356},
+				      {axis:"crispness_intn", value:0.5417256011},
+				      {axis:"juciness_intn", value:0.5968882603},
+				      {axis:"seediness_intn", value:0.3465346535},
+				      {axis:"mealiness_intn", value:0.5417256011},
+				      {axis:"firmness_jar", value:0.8745874587},
+				      {axis:"crispness_jar", value:0.8514851485},
+				      {axis:"juciness_jar", value:0.8877887789},
+				      {axis:"aftertaste_yn", value:0.3168316832},
+				      {axis:"aftertaste_intn", value:0.2138613861}	
+			        	]
+					];
+			////////////////////////////////////////////////////////////// 
+			//////////////////// Draw the Chart ////////////////////////// 
+			////////////////////////////////////////////////////////////// 
+
+			var color = d3.scale.ordinal()
+				.range(["#0b4780"]);
+				
+			var radarChartOptions = {
+			  w: width,
+			  h: height,
+			  margin: margin,
+			  maxValue: 1.0,
+			  levels: 5,
+			  roundStrokes: true,
+			  color: color
+			};
+			//Call function to draw the Radar chart
+			RadarChart(".radarChart", data, radarChartOptions);
+		</script>
+	</body>
+</html>
