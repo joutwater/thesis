@@ -1,16 +1,19 @@
 # Thesis
 
-## Featured Module Update
-![](./Concept%20Development/Mind%20Maps/SB_WF_Story3.png)
+## Sensing Blue - Update 4.21.2020 
+![](./Concept%20Development/Mind%20Maps/sensing_blue1.png)
 
-## Season's Finest
-![](./Concept%20Development/Mind%20Maps/SF_WF_Tool.png)
+//## Featured Module Update
+//![](./Concept%20Development/Mind%20Maps/SB_WF_Story3.png)
 
-## Sensing Berries
-![](./Concept%20Development/Mind%20Maps/SB_WF_Story.png)
+//## Season's Finest
+//![](./Concept%20Development/Mind%20Maps/SF_WF_Tool.png)
 
-## System Diagram
-![](./Concept%20Development/Mind%20Maps/BQ_input_output.png)
+//## Sensing Berries
+//![](./Concept%20Development/Mind%20Maps/SB_WF_Story.png)
+
+//## System Diagram
+//![](./Concept%20Development/Mind%20Maps/BQ_input_output.png)
 
 ## Berry Quality Analysis
 ### Who is your audience?
