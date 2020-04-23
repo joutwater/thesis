@@ -1,5 +1,8 @@
 # Thesis
 
+### Hero Image
+![](./Concept%20Development/Mind%20Maps/Hero1.png)
+
 ## Sensing Blue - Update 4.21.2020 
 ![](./Concept%20Development/Mind%20Maps/sensing_blue1.png)
 
