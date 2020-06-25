@@ -86,8 +86,8 @@
 #### Data viz inspiration:
 http://rhythm-of-food.net/
 
-//## System Diagram
-//![](./Concept%20Development/Mind%20Maps/BQ_input_output.png)
+## System Diagram
+![](./Concept%20Development/Mind%20Maps/BQ_input_output.png)
 
 ## Berry Quality Analysis
 ### Who is your audience?
@@ -122,10 +122,10 @@ http://rhythm-of-food.net/
 - Research Question: Because I want to understand how not only genetic testing but its combination with favorable environmental conditions can lead to berries of highest quality and berries with targeted flavors and flavor combinations.
 - Significance: This relationship can help provide crucial data for the industry relating to flavor quality development. For those not in the industry, I believe it is an interesting insight to what goes into a berry and the amazing technologies and modern practices used today in precision agriculture.
 
-## Sensing Berries
+## Iteration Option 1: Sensing Berries
 ![](./Concept%20Development/Mind%20Maps/SB_WF_Story.png)
 
-## Season's Finest
+## Iteration Option 2: Season's Finest
 ![](./Concept%20Development/Mind%20Maps/SF_WF_Tool.png)
 
 ## Featured Module Update
