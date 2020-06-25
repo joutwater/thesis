@@ -1,7 +1,7 @@
 # Thesis: Process
-Find working repository with codebase [HERE](https://github.com/joutwater/jo_berry_code)
-Find written process at the bottom of the page
-<a name="sometext"></a>
+Find working repository with codebase [HERE](https://github.com/joutwater/jo_berry_code)  
+Find written process at the bottom of the page [HERE](#written_process)
+
 ## Ideation: Subjectivity of Taste in Food
 ![](./Concept%20Development/Mind%20Maps/food1.png)
 ## Literature Review list
@@ -136,8 +136,7 @@ http://rhythm-of-food.net/
 ## Sensing Blue - Update 4.21.2020 
 ![](./Concept%20Development/Mind%20Maps/sensing_blue1.png)
 
-[some text](#sometext)
-
+<a name="written_process"></a>
 ## Excerpt from Written Thesis
 
 ### Chapter 6
