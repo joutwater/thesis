@@ -1,5 +1,5 @@
 # Thesis: Process
-Find codebase and written thesis [HERE](https://github.com/joutwater/jo_berry_code)
+Find working repository with codebase [HERE](https://github.com/joutwater/jo_berry_code)
 
 ## Ideation: Subjectivity of Taste in Food
 ![](./Concept%20Development/Mind%20Maps/food1.png)
