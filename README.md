@@ -1,4 +1,4 @@
-# Thesis
+# Thesis: Process
 
 ## Subjectivity of Taste in Food : Thesis Idea
 ![](./Concept%20Development/Mind%20Maps/food1.png)
@@ -133,6 +133,3 @@ http://rhythm-of-food.net/
 
 ## Sensing Blue - Update 4.21.2020 
 ![](./Concept%20Development/Mind%20Maps/sensing_blue1.png)
-
-### Sensing Blue : Hero Image
-![](./Concept%20Development/Mind%20Maps/Hero1.png)
