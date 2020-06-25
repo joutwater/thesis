@@ -1,6 +1,6 @@
 # Thesis: Process
 
-## Subjectivity of Taste in Food : Thesis Idea
+## Ideation: Subjectivity of Taste in Food
 ![](./Concept%20Development/Mind%20Maps/food1.png)
 ## Literature Review list
 1. Gazzaniga, Michael S. The Consciousness Instinct: Unraveling the Mystery of How the Brain Makes the Mind. New York: Farrar, Straus and Giroux, 2019.  
