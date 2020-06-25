@@ -1,58 +1,6 @@
 # Thesis
 
-### Sensing Blue : Hero Image
-![](./Concept%20Development/Mind%20Maps/Hero1.png)
-
-## Sensing Blue - Update 4.21.2020 
-![](./Concept%20Development/Mind%20Maps/sensing_blue1.png)
-
-//## Featured Module Update
-//![](./Concept%20Development/Mind%20Maps/SB_WF_Story3.png)
-
-//## Season's Finest
-//![](./Concept%20Development/Mind%20Maps/SF_WF_Tool.png)
-
-//## Sensing Berries
-//![](./Concept%20Development/Mind%20Maps/SB_WF_Story.png)
-
-//## System Diagram
-//![](./Concept%20Development/Mind%20Maps/BQ_input_output.png)
-
-## Berry Quality Analysis
-### Who is your audience?
-
-- People interested in learning about detailed processes around our day to day lives that we might not realize
-
-- People who love food (berries) and are interested in how it is "developed"
-
-- People interested in analyzing agriculture variables and outputs
-
-### How is your audience reading or encountering your project? 
-
-- Website: Journalistic entry point regarding background and significance (scrolly)
-
-- Moving to Web App tool which includes data exploration and interacting with layers and details
-
-### What does your project ask of your audience?
-
-- Desire to learn, reading
-
-- Exploration, interaction
-
-- Possible data input
-
-### What does your audience learn and take away from their user experience?
-
-- The audience learns about the intricate science, choices, and processes around optimizing berry flavor and taste. This tells a larger story about modern agriculture and brings up issues like sustainability and GMOs.
-
-### Updated Research Question
-
-- Topic: Visualizing the association of desirable flavor chemicals in berries with particular growing conditions, in test plots (small-scale) and/or in field (large-scale))
-- Research Question: Because I want to understand how not only genetic testing but its combination with favorable environmental conditions can lead to berries of highest quality and berries with targeted flavors and flavor combinations.
-- Significance: This relationship can help provide crucial data for the industry relating to flavor quality development. For those not in the industry, I believe it is an interesting insight to what goes into a berry and the amazing technologies and modern practices used today in precision agriculture.
-
-
-## Subjectivity of Taste in Food : Thesis Idea 1
+## Subjectivity of Taste in Food : Thesis Idea
 ![](./Concept%20Development/Mind%20Maps/food1.png)
 ## Literature Review list
 1. Gazzaniga, Michael S. The Consciousness Instinct: Unraveling the Mystery of How the Brain Makes the Mind. New York: Farrar, Straus and Giroux, 2019.  
@@ -138,64 +86,53 @@
 #### Data viz inspiration:
 http://rhythm-of-food.net/
 
-## Skate Culture in NYC : Thesis Idea 2
-![](./Concept%20Development/Mind%20Maps/Skateboard1.png)
-## Literature Review list
-1. Kloek, Marjolein E., Arjen E. Buijs, Jan J. Boersema, and Matthijs G.c. Schouten. “Beyond Ethnic Stereotypes – Identities and Outdoor Recreation Among Immigrants and Nonimmigrants in the Netherlands.” Leisure Sciences 39, no. 1 (2016): 59–78. https://doi.org/10.1080/01490400.2016.1151843.
-2. Thomas, William E., Rupert Brown, Matthew J. Easterbrook, Vivian L. Vignoles, Claudia Manzi, Chiara D’Angelo, and Jeremy J. Holt. “Social Identification in Sports Teams.” Personality and Social Psychology Bulletin 43, no. 4 (2017): 508–23. https://doi.org/10.1177/0146167216689051.
-3. Trepte, Sabine, and Laura S. Loy. “Social Identity Theory and Self-Categorization Theory.” The International Encyclopedia of Media Effects, August 2017, 1–13. https://doi.org/10.1002/9781118783764.wbieme0088.
+//## System Diagram
+//![](./Concept%20Development/Mind%20Maps/BQ_input_output.png)
 
-#### Research Question:
-1.
-- Topic: I am visualizing individuality in skateboarding at the NYC pier 62 skatepark.
+## Berry Quality Analysis
+### Who is your audience?
 
-- Research Question: Because I want to show the exceptional contrast in individuality and strength of community within a group of skateboarders in nyc
+- People interested in learning about detailed processes around our day to day lives that we might not realize
 
-- Significance: In order to show the highly unique and effective ability skateboarding culture has in shaping identity and showcasing individualism compared to other sports
-  
-2.
-- Topic: I am visualizing individuality inside a skateboarding community at the NYC pier 62 skatepark.
+- People who love food (berries) and are interested in how it is "developed"
 
-- Research Question: Because I want to understand how the existence of parks and recreational areas in nyc create opportunities for community development and high levels of cultural diversity
+- People interested in analyzing agriculture variables and outputs
 
-- Significance: In order to show  the highly unique and effective ability skatepark culture offers in shaping especially strong community qualities and dynamics.
+### How is your audience reading or encountering your project? 
 
-### Introduction
-1. Background
-2. Thesis
-### Urban community development
-1. Urban culture and demographic diversity
-  - Neighborhood vs. Other community construct
-  - Parks as primary alternative to neighborhood in community development
-2. Public Parks
-  - Public vs. Private
-  - Green spaces
-  - Maintenance
-3. Recreational activities
-  - Number of various activities
-  - Variety of activities
-4. A meeting place
-  - Congregation location
-  - How do you communities create these places and develop them
-### Defining Identity within a community
-1. Local vs. Other
-  - Localism, Tribalism
-2. Sense of Acceptance and freedom
-  - Method of Escape
-3. Individualism
-  - Style
-    - Clothing
-    - Physical Approach
-      - Speed, Flow, Commitment
-      - Body position
-      - Trick Choice
-### Conclusion
+- Website: Journalistic entry point regarding background and significance (scrolly)
 
-#### Data Ideas:
-- NYC Census Data - https://data.cityofnewyork.us/browse?q=demographic
-- NYC Parks Data - https://data.cityofnewyork.us/browse?q=recreation&sortBy=relevance
-- Data derived from videos and photographs at skatepark
+- Moving to Web App tool which includes data exploration and interacting with layers and details
 
-#### Data viz inspiration:
-- https://c4sr.columbia.edu/projects/we-can
-- http://www.georgelmurphy.com/berrics/
+### What does your project ask of your audience?
+
+- Desire to learn, reading
+
+- Exploration, interaction
+
+- Possible data input
+
+### What does your audience learn and take away from their user experience?
+
+- The audience learns about the intricate science, choices, and processes around optimizing berry flavor and taste. This tells a larger story about modern agriculture and brings up issues like sustainability and GMOs.
+
+### Updated Research Question
+
+- Topic: Visualizing the association of desirable flavor chemicals in berries with particular growing conditions, in test plots (small-scale) and/or in field (large-scale))
+- Research Question: Because I want to understand how not only genetic testing but its combination with favorable environmental conditions can lead to berries of highest quality and berries with targeted flavors and flavor combinations.
+- Significance: This relationship can help provide crucial data for the industry relating to flavor quality development. For those not in the industry, I believe it is an interesting insight to what goes into a berry and the amazing technologies and modern practices used today in precision agriculture.
+
+## Sensing Berries
+![](./Concept%20Development/Mind%20Maps/SB_WF_Story.png)
+
+## Season's Finest
+![](./Concept%20Development/Mind%20Maps/SF_WF_Tool.png)
+
+## Featured Module Update
+![](./Concept%20Development/Mind%20Maps/SB_WF_Story3.png)
+
+## Sensing Blue - Update 4.21.2020 
+![](./Concept%20Development/Mind%20Maps/sensing_blue1.png)
+
+### Sensing Blue : Hero Image
+![](./Concept%20Development/Mind%20Maps/Hero1.png)
